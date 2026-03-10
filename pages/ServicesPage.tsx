@@ -50,7 +50,7 @@ const ServicesPage: React.FC = () => {
           "High-quality interior and exterior finishing.",
           "Turnkey solutions from ground-breaking to handover."
         ]}
-        imageUrl="https://i.ibb.co/QFRgfhtZ/Gemini-Generated-Image-210p15210p15210p.png"
+        imageUrl="https://i.ibb.co/vvC2CXMz/residential-Construction.jpg"
       />
 
       <div className="bg-gray-50">
@@ -64,7 +64,7 @@ const ServicesPage: React.FC = () => {
             "Compliance with all building codes and regulations.",
             "Robust construction for long-term value and low maintenance."
           ]}
-          imageUrl="https://i.ibb.co/P2VCNPR/Gemini-Generated-Image-g3ofmtg3ofmtg3of.png"
+          imageUrl="https://i.ibb.co/TDvQ5Y1S/abuja-Apartey.jpg"
           reverse={true}
         />
       </div>
@@ -79,7 +79,7 @@ const ServicesPage: React.FC = () => {
           "Flooring, tiling, painting, and POP ceiling installation.",
           "Exterior facelifts and building extensions."
         ]}
-        imageUrl="https://i.ibb.co/TpzJVjZ/Gemini-Generated-Image-6wb1nq6wb1nq6wb1.png"
+        imageUrl="https://i.ibb.co/MmR0XB2/renovation.jpg"
       />
     </div>
   );

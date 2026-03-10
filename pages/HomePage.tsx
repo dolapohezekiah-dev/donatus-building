@@ -5,17 +5,17 @@ import { HardHat, ClipboardCheck, Users, BrickWall, ThumbsUp } from 'lucide-reac
 
 const heroSlides = [
   {
-    image: 'https://picsum.photos/seed/hero1/1920/1080',
+    image: 'https://i.ibb.co/zVtd1Jf3/construction-Engineer.jpg',
     headline: 'Building Dreams. Delivering Excellence.',
     subheadline: 'Your trusted partner in residential construction across Nigeria.'
   },
   {
-    image: 'https://picsum.photos/seed/hero2/1920/1080',
+    image: 'https://i.ibb.co/nN1TwxS1/worker1.jpg',
     headline: 'Crafting Homes, Not Just Houses.',
     subheadline: 'Unwavering commitment to quality, durability, and aesthetics.'
   },
   {
-    image: 'https://picsum.photos/seed/hero3/1920/1080',
+    image: 'https://i.ibb.co/Kp4DGWv1/ikeja-Storeybuilding.jpg',
     headline: 'Excellence in Every Brick.',
     subheadline: 'From foundation to finishing, we build with passion and precision.'
   }
